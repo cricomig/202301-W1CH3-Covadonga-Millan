@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+header {
+  background-color: rgba(81, 105, 167, 255);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  padding: 20px 10px;
+}
+
+header ul {
+  list-style-type: none;
+  text-align: right;
+  padding-left: 0;
+}
+
+header ul li {
+  display: inline;
+  font-size: 14px;
+  text-align: right;
+}
+
+header ul h1 {
+  display: inline;
+  padding-right: 45px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+section {
+  background-color: rgba(208, 157, 114, 255);
+
+}
